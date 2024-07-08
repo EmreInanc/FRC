@@ -9,3 +9,8 @@ Size bu sunum da FRC ye ilk defa gidecek olan takımlar-takım üyeleri için ha
 Size bu sunum da FRC de yazılım a Command Base kullanacak kişiler için hazırladığım bir sunum oldu.
 </p>
 
+
+Cyber Griffins #8070
+Hazırlayan:Yazılım Kaptanı/Emre İnanç(2024-Mezun)
+Tecrübe:3 Yıl
+
